@@ -1,0 +1,1 @@
+web: uvicorn reflexionador:app --host=0.0.0.0 --port=$PORT
